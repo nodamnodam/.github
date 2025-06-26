@@ -4,6 +4,7 @@ about: 버그(오류)를 발견했을 때 사용하세요.
 title: '어디서, 언제, 어떻게, 무엇이'
 labels: bug, triage
 assignees: ''
+projects: ["nodamnodam/1"]
 ---
 
 <!-- 

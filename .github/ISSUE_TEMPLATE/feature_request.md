@@ -4,6 +4,7 @@ about: 새로운 기능을 제안하고 싶을 때 사용하세요.
 title: '무엇을, 어디에, 어떻게'
 labels: enhancement, triage
 assignees: ''
+projects: ["nodamnodam/1"]
 ---
 
 <!--
